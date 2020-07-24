@@ -2,4 +2,5 @@
 
 Dummy tests are in `jenkins-tests`
 
-Curso basico de Jenkins en Platzi
+Curso basico de Jenkins en Platzi.
+
